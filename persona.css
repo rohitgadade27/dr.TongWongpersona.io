@@ -1,0 +1,206 @@
+html,
+body {
+    height: 100%;
+    width: 100%;
+    background-color: lightgray;
+
+}
+
+nav {
+    background-color: aqua;
+    font-size: 25px;
+    width: 100%;
+    height: 40px;
+
+    display: flex;
+
+}
+
+.container {
+    height: 100%;
+    width: 100%;
+    background-color: lightgray;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+img {
+    margin-left: 10px;
+    margin-top: 20px;
+    height: 250px;
+    width: 250px;
+    padding-left: 15px;
+    padding-right: 15px;
+
+}
+
+.box {
+    height: 50px;
+    width: 250px;
+    background-color: silver;
+    margin-top: 30px;
+    margin-left: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+table .green {
+    color: blue;
+
+    margin-right: 15px;
+    padding-left: 50px;
+    padding-top: 20px;
+
+
+}
+
+td {
+    margin-right: 15px;
+    padding-left: 50px;
+    padding-top: 10px;
+}
+
+.motivation {
+    font-size: 25px;
+    padding: 0px 40px;
+    color: blue;
+
+
+
+
+}
+
+.box2 {
+    padding: 0px 45px;
+    font-size: 20px;
+    height: 0.8cm;
+    width: 5cm;
+    background-color: aqua;
+    margin: 20px 70px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.heading {
+    color: blue;
+    padding: 0px 20px;
+    font-size: 23px;
+    margin-left: 20px;
+
+}
+
+.line {
+    color: black;
+    padding: 0px 45px;
+
+}
+
+div p {
+    font-size: 15px;
+    word-spacing: .2cm;
+}
+
+.Personality {
+    color: blue;
+    font-size: 23px;
+}
+
+
+.box3 {
+    height: 0.3cm;
+    width: 3cm;
+    background-color: rgb(237, 237, 237);
+
+}
+
+.box4 {
+    height: 0.3cm;
+    width: 0.5cm;
+    background-color: aqua;
+    margin-left: 20px;
+
+
+}
+
+.box5 {
+    height: 0.3cm;
+    width: 0.5cm;
+    background-color: aqua;
+    margin-left: 35px;
+}
+
+.box6 {
+    height: 0.3cm;
+    width: 0.5cm;
+    background-color: aqua;
+    margin-left: 40px;
+}
+
+.box7 {
+    height: 0.3cm;
+    width: 0.5cm;
+    background-color: aqua;
+    margin-left: 10px;
+}
+
+.point {
+    color: black;
+
+}
+
+.box8 {
+    height: 0.3m;
+    width: 5cm;
+    background-color: aqua;
+
+}
+
+.box9 {
+    height: 0.3cm;
+    width: 5cm;
+    background-color: aqua;
+}
+
+.box10 {
+    height: 0.3cm;
+    width: 4cm;
+    background-color: aqua;
+
+}
+
+.box11 {
+    height: 0.3cm;
+    width: 5cm;
+    background-color: aqua;
+
+}
+
+
+#firstimage {
+    height: 60px;
+    width: 60px;
+}
+
+#secondimage {
+    height: 60px;
+    width: 60px;
+
+}
+
+#thirdimage {
+    height: 60px;
+    width: 60px;
+}
+
+#img1 {
+
+    display: flex;
+    padding-bottom: 20px;
+}
